@@ -42,11 +42,16 @@
 
 
 
-<!-- Your Other Projects -->
-<h3 align="center">🚀 Other Projects 🚀</h3>
+<!-- Your Projects -->
+
+<h3 align="center">🚀 Project Showcase 🚀</h3>
 <p align="center">
-  <a href="https://github.com/Abhinav-21/Healthcare-Record-Management"><img src="https://img.shields.io/badge/-Project%201-181717?style=flat&logo=github"></a>
-  <a href="https://github.com/abhay-43/My-Ethereum-Wallet"><img src="https://img.shields.io/badge/-Project%202-181717?style=flat&logo=github"></a>
+  <a href="https://github.com/Abhinav-21/Healthcare-Record-Management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-21&repo=Healthcare-Record-Management&theme=dark">
+  </a>
+  <a href="https://github.com/abhay-43/My-Ethereum-Wallet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhay-43&repo=My-Ethereum-Wallet&theme=dark">
+  </a>
 </p>
 
 <!-- Your GitHub Stats -->

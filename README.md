@@ -9,9 +9,10 @@
 <!-- Your Social Media and Contact -->
 <p align="center">
   <a href="https://www.linkedin.com/in/abhay43/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:vishwakarmaabhay10@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="mailto:vishwakarmaabhay10@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=email&logoColor=white"></a>
   <a href="https://leetcode.com/p_ekk_a/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"></a>
   <a href="https://auth.geeksforgeeks.org/user/p_ekk_a/"><img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/p_ekk_a"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"></a>
 </p>
 
 <!-- Your Education -->

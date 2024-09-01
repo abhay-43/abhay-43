@@ -9,7 +9,7 @@
 <!-- Your Social Media and Contact -->
 <p align="center">
   <a href="https://www.linkedin.com/in/abhay43/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:vishwakarmaabhay10@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=email&logoColor=white"></a>
+  <a href="mailto:vishwakarmaabhay10@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://leetcode.com/p_ekk_a/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"></a>
   <a href="https://auth.geeksforgeeks.org/user/p_ekk_a/"><img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white"></a>
 </p>
@@ -71,30 +71,12 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-43&layout=compact&theme=dark"></a>
 </p>
 
-<h3 align="center">🏆 Top Languages by Repo 🏆</h3>
+<!-- Your Top Languages by Repo and Commit -->
+<h3 align="center">🏆 Top Languages by Repo & Commit 🏆</h3>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhay-43&theme=dark">
-</p>
-
-<h3 align="center">🏆 Top Languages by Commit 🏆</h3>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhay-43&theme=dark">
 </p>
 
 <!-- Your Favorite Quote -->
 <h3 align="center">🌟 Let's build together! 🌟</h3>
-
-<!--
-**abhay-43/abhay-43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

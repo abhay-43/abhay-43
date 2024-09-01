@@ -3,7 +3,7 @@
 
 <!-- Your Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=FF5733&size=24&center=true&vCenter=true&lines="Hi+there,+Welcome+to+my+GitHub+profile!;I'm+a+Passionate+Developer;Love+to+explore+new+technologies;Let's+build+together!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=FF5733&size=24&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile!;I'm+a+Passionate+Developer;Love+to+explore+new+technologies;Let's+build+together!" alt="Typing SVG">
 </p>
 
 <!-- Your Social Media and Contact -->

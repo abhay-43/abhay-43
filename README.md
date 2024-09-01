@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/-Matplotlib-0C4B7A?style=flat&logo=matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
 </p>
 
 <!-- Your Projects -->
@@ -51,7 +52,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-21&repo=Healthcare-Record-Management&theme=dark">
   </a>
   <a href="https://github.com/abhay-43/Internet-Hinglish-Memes-Classification-using-Multimodal-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhay-43&repo=My-Ethereum-Wallet&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhay-43&repo=Internet-Hinglish-Memes-Classification-using-Multimodal-Learning&theme=dark">
   </a>
 </p>
 

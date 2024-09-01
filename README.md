@@ -17,32 +17,31 @@
 <!-- Your Education -->
 <h3 align="center">🎓 Education 🎓</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20and%20Engineering-blue?style=for-the-badge&logo=graduation-cap&logoColor=white"><br>
-  <b>MNNIT Allahabad, Prayagraj (2021-2025)</b><br>
-  Intermediate: 88.6%<br>
-  <img src="https://img.shields.io/badge/WBCHSE-West%20Bengal%20Council%20of%20Higher%20Secondary%20Education-orange?style=flat-square"><br>
-  Matriculation: 83.4%<br>
-  <img src="https://img.shields.io/badge/WBBSE-West%20Bengal%20Board%20of%20Secondary%20Education-orange?style=flat-square">
+    Bachelor's of Technology, Computer Science and Engineering (2021-2025)<br>
+    MNNIT Allahabad, Prayagraj<br>
+  - <br>Intermediate 88.6%<br>
+    West Bengal Council of Higher Secondary Education (WBCHSE)<br>
+  - <br>Matriculation 83.4%<br>
+    West Bengal Board of Secondary Education (WBBSE)
 </p>
 
 <!-- Your Skills -->
 <h3 align="center">💻 Tech Stack 💻</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
-  <img src="https://img.shields.io/badge/-Web3.Storage-6600FF?style=for-the-badge&logo=web3dotstorage&logoColor=white">
-  <img src="https://img.shields.io/badge/-Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
-  <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white">
+  <img src="https://img.shields.io/badge/-Web3.Storage-6600FF?style=flat&logo=web3dotstorage&logoColor=white">
+  <img src="https://img.shields.io/badge/-Ethers.js-3C3C3D?style=flat&logo=ethereum&logoColor=white">
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/-Matplotlib-0C4B7A?style=flat&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
 </p>
 
 <!-- Your Projects -->
@@ -76,6 +75,12 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhay-43&theme=dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhay-43&theme=dark">
+</p>
+
+<!-- Your GitHub Trophies -->
+<h3 align="center">🏆 GitHub Trophies 🏆</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhay-43&theme=darkhub&no-bg=true&row=1&column=7">
 </p>
 
 <!-- Your Favorite Quote -->

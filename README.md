@@ -3,7 +3,7 @@
 
 <!-- Your Introduction -->
 <p align="center">
-  Hi there, Welcome to my GitHub profile!
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=FF5733&size=24&center=true&vCenter=true&lines=Hi+there,+Welcome+to+my+GitHub+profile!;I'm+a+Passionate+Developer;Love+to+explore+new+technologies;Let's+build+together!" alt="Typing SVG">
 </p>
 
 <!-- Your Social Media and Contact -->
@@ -38,9 +38,14 @@
   <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/-Web3.Storage-6600FF?style=flat&logo=web3dotstorage&logoColor=white">
   <img src="https://img.shields.io/badge/-Ethers.js-3C3C3D?style=flat&logo=ethereum&logoColor=white">
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/-Matplotlib-0C4B7A?style=flat&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
 </p>
 
 <!-- Your Projects -->
+
 <h3 align="center">🚀 Project Showcase 🚀</h3>
 <p align="center">
   <a href="https://github.com/Abhinav-21/Healthcare-Record-Management">
@@ -51,14 +56,6 @@
   </a>
 </p>
 
-<!-- GitHub Trophies -->
-<h3 align="center">🏆 GitHub Trophies 🏆</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhay-43&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies">
-  </a>
-</p>
-
 <!-- Your GitHub Stats -->
 <h3 align="center">📈 GitHub Stats 📈</h3>
 <p align="center">
@@ -66,6 +63,12 @@
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abhay-43&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"></a>
+</p>
+
+<!-- GitHub Trophies -->
+<h3 align="center">🏆 GitHub Trophies 🏆</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhay-43&theme=darkhub&column=7">
 </p>
 
 <!-- Your Top Languages -->

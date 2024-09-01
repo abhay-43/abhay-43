@@ -40,10 +40,7 @@
   <img src="https://img.shields.io/badge/-Ethers.js-3C3C3D?style=flat&logo=ethereum&logoColor=white">
 </p>
 
-
-
 <!-- Your Projects -->
-
 <h3 align="center">🚀 Project Showcase 🚀</h3>
 <p align="center">
   <a href="https://github.com/Abhinav-21/Healthcare-Record-Management">
@@ -51,6 +48,14 @@
   </a>
   <a href="https://github.com/abhay-43/Internet-Hinglish-Memes-Classification-using-Multimodal-Learning">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhay-43&repo=My-Ethereum-Wallet&theme=dark">
+  </a>
+</p>
+
+<!-- GitHub Trophies -->
+<h3 align="center">🏆 GitHub Trophies 🏆</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhay-43&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies">
   </a>
 </p>
 

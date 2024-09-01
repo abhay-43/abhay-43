@@ -49,7 +49,7 @@
   <a href="https://github.com/Abhinav-21/Healthcare-Record-Management">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-21&repo=Healthcare-Record-Management&theme=dark">
   </a>
-  <a href="https://github.com/abhay-43/My-Ethereum-Wallet">
+  <a href="https://github.com/abhay-43/Internet-Hinglish-Memes-Classification-using-Multimodal-Learning">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhay-43&repo=My-Ethereum-Wallet&theme=dark">
   </a>
 </p>

@@ -47,7 +47,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-21&repo=Healthcare-Record-Management&theme=dark">
   </a>
   <a href="https://github.com/abhay-43/Internet-Hinglish-Memes-Classification-using-Multimodal-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhay-43&repo=My-Ethereum-Wallet&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhay-43&repo=Internet-Hinglish-Memes-Classification-using-Multimodal-Learning&theme=dark">
   </a>
 </p>
 

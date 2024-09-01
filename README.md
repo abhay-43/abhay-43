@@ -9,7 +9,7 @@
 <!-- Your Social Media and Contact -->
 <!-- Your Social Media and Contact -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhay43/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/abhay43/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:vishwakarmaabhay10@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=email&logoColor=white"></a>
   <a href="https://leetcode.com/p_ekk_a/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"></a>
   <a href="https://auth.geeksforgeeks.org/user/p_ekk_a/"><img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white"></a>

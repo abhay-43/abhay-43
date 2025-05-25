@@ -2,9 +2,9 @@
 <h1 align="center">Abhay Vishwakarma</h1>
 
 <!-- Your Introduction -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=FF5733&size=24&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile!;I'm+a+Passionate+Developer;Love+to+explore+new+technologies;Let's+build+together!" alt="Typing SVG">
-</p>
+</p> -->
 
 <!-- Your Social Media and Contact -->
 <p align="center">

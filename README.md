@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=abhay-43&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
-<!-- Your Education -->
+<!-- Your Education 
 <h3 align="center">🎓 Education 🎓</h3>
 <p align="center">
     Bachelor's of Technology, Computer Science and Engineering (2021-2025)<br>
@@ -30,7 +30,7 @@
     West Bengal Council of Higher Secondary Education (WBCHSE)<br>
   - <br>Matriculation 83.4%<br>
     West Bengal Board of Secondary Education (WBBSE)
-</p>
+</p>-->
 
 <!-- Your Skills -->
 <h3 align="center">💻 Tech Stack 💻</h3>
